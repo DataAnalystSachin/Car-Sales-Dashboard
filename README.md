@@ -1,2 +1,43 @@
-# Car-Sales-Dashboard
-A visually interactive Car Sales Dashboard built in Power BI. It showcases total sales, year-over-year growth, budget analysis, service costs, and monthly trends. Features include slicers, charts, and dynamic visuals for insights into sales types and yearly performance from 2019 to 2023.
+# 🚗 Car Sales Dashboard
+
+Welcome to the **Car Sales Dashboard** project!  
+This interactive dashboard is designed using **Microsoft Power BI** to provide deep insights into car sales trends, performance metrics, and service analytics over multiple years.
+
+## 🔍 Features
+
+- 📊 **Total Sales, Growth, and Budget Overview**
+- 📅 **Yearly Comparison (2019 - 2023)**
+- 🛠️ **Sales Type Breakdown:** Third Party, Direct Sale, Pre Book
+- 🔄 **Service Categories:** Replacement, Servicing, Others
+- 📈 **Monthly Sales Trend Visualization**
+- 🚘 **Car Visuals for Engaging UI**
+
+## 📌 Tools Used
+
+- Microsoft Power BI
+- DAX for Measures & KPIs
+- Data Modeling & Transformation
+- Visual Design and UX Enhancements
+
+## 🖼️ Dashboard Snapshots
+
+### 🔹 Dashboard 1
+![Car1](https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car1.png)
+
+### 🔹 Dashboard 2
+![Car2](https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car2.png)
+
+### 🔹 Dashboard 3
+![Car3](https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car3.png)
+
+## 📁 Repository Link
+
+👉 [GitHub Repository](https://github.com/DataAnalystSachin/Car-Sales-Dashboard)
+
+## 🙌 Let's Connect!
+
+If you found this project helpful or have suggestions, feel free to connect or contribute!
+
+---
+
+**#PowerBI** • **#DataAnalytics** • **#DashboardDesign** • **#CarSales** • **#BusinessIntelligence** • **#DataVisualization**
