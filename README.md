@@ -30,14 +30,6 @@ This interactive dashboard is designed using **Microsoft Power BI** to provide d
 ### 🔹 Dashboard 3
 ![Car3](https://github.com/DataAnalystSachin/Car-Sales-Dashboard/blob/main/Car3.png)
 
-## 📁 Repository Link
 
-👉 [GitHub Repository](https://github.com/DataAnalystSachin/Car-Sales-Dashboard)
 
-## 🙌 Let's Connect!
 
-If you found this project helpful or have suggestions, feel free to connect or contribute!
-
----
-
-**#PowerBI** • **#DataAnalytics** • **#DashboardDesign** • **#CarSales** • **#BusinessIntelligence** • **#DataVisualization**
